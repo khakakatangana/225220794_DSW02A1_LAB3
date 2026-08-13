@@ -14,7 +14,7 @@ function ProductCard({ product }) {
         </p>
 
         <p className="price">
-          ${product.price}
+          R{product.price}
         </p>
 
         <p className="description">
